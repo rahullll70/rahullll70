@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming
 - 📫 How to reach me - through my email - r.prahulparihar70@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 rahullll70/rahullll70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
