@@ -1,11 +1,51 @@
-- 👋 Hi, I’m @rahullll70
-- 👀 I’m interested in music
-- 🌱 I’m currently learning programming
-- 📫 How to reach me - through my email - r.prahulparihar70@gmail.com
-- 😄 Pronouns: He/Him
+# Hi, I'm Rahul 👋  
+** Web Developer & Designer | MERN Stack Learner | Freelancer**
 
+I love creating clean, modern, and minimal web experiences.  
+Currently exploring the MERN stack and improving my frontend skills step-by-step.  
+Always excited to learn, build, and grow through real-world projects.
 
-<!---
-rahullll70/rahullll70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 What I'm Working On
+- Learning **Next.js + MERN stack**
+- Building small UI components to improve design sense
+- Freelancing web design projects
+- Improving animations with **GSAP & Framer Motion**
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** HTML, CSS, TailwindCSS, JavaScript, React, Next.js  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, VS Code  
+**Design:** Figma, Webflow  
+
+---
+
+### 🌱 Currently Learning
+- API development in Express  
+- Better UI/UX patterns  
+- Portfolio animations  
+- Freelancing essentials  
+
+---
+
+### 📂 Featured Projects
+- 🖥️ Personal Portfolio (working…)  
+- ☕ Coffee Brand Landing Page  
+- 🎨 UI Components Collection  
+
+*(I’ll keep adding more once they're ready!)*
+
+---
+
+### 📫 Connect with Me
+- **Email:** rahul.code70@gmail.com  
+- **Portfolio:** (coming soon…)
+
+---
+
+Thanks for visiting ✨  
+Feel free to check my repositories and leave feedback!
