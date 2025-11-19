@@ -1,5 +1,5 @@
 # Hi, I'm Rahul 👋  
-** Web Developer & Designer | MERN Stack Learner | Freelancer**
+**Web Developer & Designer | MERN Stack Learner | Freelancer**
 
 I love creating clean, modern, and minimal web experiences.  
 Currently exploring the MERN stack and improving my frontend skills step-by-step.  
