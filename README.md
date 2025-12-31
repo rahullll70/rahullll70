@@ -43,7 +43,7 @@ Always excited to learn, build, and grow through real-world projects.
 
 ### 📫 Connect with Me
 - **Email:** rahul.code70@gmail.com  
-- **Portfolio:** (coming soon…)
+- **Portfolio:** https://rahullll-portfolio.vercel.app/
 
 ---
 
